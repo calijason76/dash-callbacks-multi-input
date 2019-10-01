@@ -8,8 +8,8 @@ from dash.dependencies import Input, Output, State
 
 myheading1='Various Things of Various Sizes'
 tabtitle = 'SML'
-list_of_colors=['Felines', 'Humans', 'Pizza']
-list_of_numbers=['Small', 'Medium', 'Large']
+list_of_colors=['felines', 'humans', 'pizza']
+list_of_numbers=['small', 'medium', 'large']
 sourceurl = 'https://dash.plot.ly/getting-started-part-2'
 githublink = 'https://github.com/calijason76/dash-callbacks-multi-input'
 
