@@ -54,9 +54,9 @@ app.layout = html.Div(children=[
         ],className='eight columns'),
     ],className='twelve columns'),
     html.Br(),
-    html.A('Code on Github', href=githublink),
+    html.A("There's No Place Like GitHub", href=githublink),
     html.Br(),
-    html.A("Data Source", href=sourceurl),
+    html.A("Data Source - Thanks Google Image Search", href=sourceurl),
     ]
 )
 
